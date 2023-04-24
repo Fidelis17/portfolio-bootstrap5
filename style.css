@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2e2e2;
+}
+
+.projects {
+  background-color: #e2e2e2;
+}
+
+.card {
+  margin: 12px auto;
+}
+
+svg {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.navbar a {
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
